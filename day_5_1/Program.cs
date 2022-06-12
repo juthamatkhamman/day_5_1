@@ -10,6 +10,7 @@ namespace day_5_1
     {
         static void Main(string[] args)
         {
+            Console.write("Hello");
         }
     }
 }
